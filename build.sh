@@ -3,7 +3,7 @@
 
 echo "Tests are running"
 
-echo "Tests are running for the third time"
+echo "Tests are running for the fourth time"
 
 sleep 5
 
