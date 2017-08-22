@@ -2,6 +2,7 @@
 
 
 echo "Tests are running"
+echo "1"
 
 sleep 5
 
