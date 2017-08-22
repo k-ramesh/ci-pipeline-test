@@ -1,8 +1,6 @@
 #!/bin/bash -el
 
-
 echo "Tests are running"
-echo "4 5 6"
 echo "4 5 6"
 echo "4 5 6"
 echo "4 5 6"
