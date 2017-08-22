@@ -2,7 +2,7 @@
 
 
 echo "Tests are running"
-echo "2"
+echo "3"
 
 echo "Tests are running for the fifth time"
 
